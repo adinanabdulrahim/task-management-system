@@ -1,1 +1,3 @@
-# task-management-system
+# Task Management System
+
+Simple starter project.
